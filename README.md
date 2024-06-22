@@ -1,1 +1,1 @@
-The factorial of 4 is 24, calculateFactorial(4)
+# The factorial of 4 is 24, calculateFactorial(4)
