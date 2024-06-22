@@ -8,3 +8,6 @@ function calculateFactorial($number) {
     return $number * calculateFactorial($number - 1);
 }
 echo calculateFactorial(4); 
+
+
+        //calculateFactorial(4) evaluates to 24, which is the factorial of 4
